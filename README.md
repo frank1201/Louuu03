@@ -43,26 +43,26 @@ I am a **web developer**. I always have some crazy ideas 💫✨ in my mind. I m
     
     Modern love needs modern solution.😤 Couple conunsel, wedding planning, surprise planning, and anything you can imagine. We even have services for people who are busy so that 
 
-    <img src="./TAEALL.png" width="500">
+    <img src="./TAEALL.webp" width="500">
 
 
 2. Guess Whaat!🎶
 
     This is an fun game which get your top 20 songs from spotify and hide a sentence from the lyrics of a random song in your top 20. You need to type in the right answer to get a point. And I bet you can't get 5 out of 5.😜
 
-    <img src="./guessALL.png" width="500">
+    <img src="./guessALL.webp" width="500">
 
 3. Wordle Copie
 
     Me and my friends fell for wordle so hard that I decide to make a copy, too. It is a simple clone which I could replace the answer to some weird word.😈
 
-    <img src="./wordleALL.png" width="500">
+    <img src="./wordleALL.webp" width="500">
 
 4. Everyday Lil Challenge
 
     I always love animation so I decide to have some little animation challenge that I can keep updating whenever I see any cool ideas.
     
-    <img src="./everydayALL.png" width="500">
+    <img src="./EverydayALL.webp" width="500">
 
 ## ✒️ I'm currently working on
 
