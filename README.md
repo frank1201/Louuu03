@@ -1,33 +1,33 @@
 # Hi, I'm Lou!
 
-I am a **web developer**. I always have some crazy ideas 💫✨ in my mind. I make sure that every steps I take brings me closer to realize all the ideas and my dream.
+I am a **web developer**. I always have some crazy ideas 💫✨ in my mind. I make sure that every step I take brings me closer to realize all the ideas and my dream.
 
-## 🗽 My values
+## 🗽 My Values
 
 ***
     👽 Stay curious.
     👻 Be artistic and creative.
     ⭐ Work harder and go a bit further away from normal to be unique.
-    🐾 Be kind
+    🐾 Be kind.
     🌞 We can make a change, and I can make a change.
 
-## 🌈 Goals for 2022
+## 🌈 Goals For 2022
 
 ***
 
 * Dig into more UI/UX design.
 * Going from front-end to back-end.
-* Going to different caffee and water color the street views. 
+* Going to different café and paint the street views using watercolor.
 
-## 👅 My dream 
+## 👅 My Dream
 
 ***
 
 * Find a solution to hunger by techonology. (I have some little ideas already...)
-* Made an side project that combines all my background knowledge annd experience. 
+* Made an side project that combines all my background knowledge annd experience.
 * Travel again.
 
-## 🔮 I'm looking for
+## 🔮 I'm Looking For
 
 ***
 
@@ -35,42 +35,43 @@ I am a **web developer**. I always have some crazy ideas 💫✨ in my mind. I m
 * Any chances to have a project to collaborate with.
 * A mentor if possible.
 
-## 📚 My projects:
+## 📚 My Projects
 
 ***
 
-1. The Alluring experience
-    
-    Modern love needs modern solution.😤 Couple conunsel, wedding planning, surprise planning, and anything you can imagine. We even have services for people who are busy so that 
+1. [The Alluring experience](https://louuu03.github.io/TheAlluringExperience/)
 
-    <img src="./TAEALL.webp" width="500">
+    Modern love needs modern solution.😤 I came up with this idea: here are couple counsel, wedding planning, surprise planning, and anything you can imagine. We even have services for people who are busy so that the gifts would be sent on the anniversary or any special days you want!! 
 
+    [<img src="./TAEALL.webp" width="500">](https://louuu03.github.io/TheAlluringExperience/)
 
-2. Guess Whaat!🎶
+2. [Guess Whaat!](https://guesswhaat.netlify.app/)🎶
 
-    This is an fun game which get your top 20 songs from spotify and hide a sentence from the lyrics of a random song in your top 20. You need to type in the right answer to get a point. And I bet you can't get 5 out of 5.😜
+    This is a fun game which gets your top 20 songs from spotify and hides a sentence from the lyrics of a random song in your top 20. You need to type in the right answer to get a point. And I bet you can't get 5 out of 5.😜
 
-    <img src="./GuessALL.webp" width="500">
+    [<img src="./GuessALL.webp" width="500">](https://guesswhaat.netlify.app/)
 
-3. Wordle Copie
+3. [Wordle Copie](https://wordlecopie.netlify.app/)
 
     Me and my friends fell for wordle so hard that I decide to make a copy, too. It is a simple clone which I could replace the answer to some weird word.😈
 
-    <img src="./wordleALL.webp" width="500">
+    [<img src="./wordleALL.webp" width="500">](https://wordlecopie.netlify.app/)
 
-4. Everyday Lil Challenge
+4. [Everyday Lil Challenge](https://louuu03.github.io/EverydayLilChallenge/index.html)
 
     I always love animation so I decide to have some little animation challenge that I can keep updating whenever I see any cool ideas.
-    
-    <img src="./EverydayALL.webp" width="500">
 
-## ✒️ I'm currently working on
+    [<img src="./EverydayALL.webp" width="500">](https://louuu03.github.io/EverydayLilChallenge/index.html)
+
+## ✒️ I'm Currently Working On
 
 ***
 
-Just building more different projects.
+    Just building more different projects.
+    - E-commerce website
+    ...
 
-## 🔍 I'm currently learning
+## 🔍 I'm Currently Learning
 
 ***
 
@@ -95,4 +96,4 @@ Just building more different projects.
 * I was a basketball player of the first league(top level) in university.😉
 * I love handcrafting. Hit me up if you find some cool DIY ideas.😚
 * Oh, I speak french, quite fluent, too. Hope to find a partner to exchange.
-* I have an sociology degree.
+* I have a sociology degree.
