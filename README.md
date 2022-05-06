@@ -66,10 +66,9 @@ I am a **web developer**. I always have some crazy ideas 💫✨ in my mind. I m
 ## ✒️ I'm Currently Working On
 
 ***
-
-    Just building more different projects.
-    - E-commerce website
-    ...
+Just building more different projects.
+* E-commerce website
+* ...
 
 ## 🔍 I'm Currently Learning
 
