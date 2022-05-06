@@ -50,7 +50,7 @@ I am a **web developer**. I always have some crazy ideas 💫✨ in my mind. I m
 
     This is an fun game which get your top 20 songs from spotify and hide a sentence from the lyrics of a random song in your top 20. You need to type in the right answer to get a point. And I bet you can't get 5 out of 5.😜
 
-    <img src="./guessALL.webp" width="500">
+    <img src="./GuessALL.webp" width="500">
 
 3. Wordle Copie
 
