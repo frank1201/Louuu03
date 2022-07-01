@@ -7,17 +7,18 @@ I am a **web developer**. I always have some crazy ideas 💫✨ in my mind. I m
 ***
     👽 Stay curious.
     👻 Be artistic and creative.
-    ⭐ Work harder and go a bit further away from normal to be unique.
+    ⭐ Work harder and go a bit further away from normal to unique.
     🐾 Be kind.
-    🌞 We can make a change, and I can make a change.
+    🌞 We can make a change, and **I** can make a change.
 
 ## 🌈 Goals For 2022
 
 ***
 
 * Dig into more UI/UX design.
-* Going from front-end to back-end.
+* Learn some back-end.
 * Going to different café and paint the street views using watercolor.
+* Join a band with my acoustic (and electric) guitar.
 
 ## 👅 My Dream
 
@@ -31,9 +32,8 @@ I am a **web developer**. I always have some crazy ideas 💫✨ in my mind. I m
 
 ***
 
-* An **internship** in front-end.
 * Any chances to have a project to collaborate with.
-* A mentor if possible.
+* Some freelance job.
 
 ## 📚 My Projects
 
@@ -74,8 +74,8 @@ Just building more different projects.
 
 ***
 
-* Typescript
-* Sass
+* Phaser.js
+* D3
 * More animation
 
 ## 📧 How To Reach Me
@@ -91,8 +91,9 @@ Just building more different projects.
 ***
 
 * I can play five instruments🎶(and I have four of them with me).
-* I **surfffffff**!🌊
+* I **surfffffff**!🌊 And I just got my first skateboard.
 * I was a basketball player of the first league(top level) in university.😉
 * I love handcrafting. Hit me up if you find some cool DIY ideas.😚
 * Oh, I speak french, quite fluent, too. Hope to find a partner to exchange.
 * I have a sociology degree.
+* I am a football referee...?
