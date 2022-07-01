@@ -9,7 +9,7 @@ I am a **web developer**. I always have some crazy ideas 💫✨ in my mind. I m
     👻 Be artistic and creative.
     ⭐ Work harder and go a bit further away from normal to unique.
     🐾 Be kind.
-    🌞 We can make a change, and ***I*** can make a change.
+    🌞 We can make a change, and "I" can make a change.
 
 ## 🌈 Goals For 2022
 
